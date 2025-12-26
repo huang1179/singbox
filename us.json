@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_keyword": [
+        "t-mobile",
+        "poshmark",
+        "mercari",
+        "walmart",
+        "temu",
+        "aliexpress"
+      ]
+    }
+  ]
+}

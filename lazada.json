@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "lazada.com",
+        "larksuite.com",
+        "lazada.cn",
+        "lazada.kr",
+        "lazada-seller.cn",
+        "lazada-seller.com",
+        "lazada.vn",
+        "lazada.com.my",
+        "lazada.co.th",
+        "lazada.sg",
+        "lazada.com.ph"
+      ]
+    }
+  ]
+}

@@ -13,12 +13,15 @@
         "lazada.com.my",
         "lazada.co.th",
         "lazada.sg",
-        "lazada.com.ph"
+        "lazada.com.ph",
+        "lazcdn.com"
       ],
        "domain": [
-         "sg-wum.alibaba.com"
+         "sg-wum.alibaba.com",
+         "laz-g-cdn.alicdn.com"
        ]
     }
   ]
 
 }
+

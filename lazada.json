@@ -14,7 +14,11 @@
         "lazada.co.th",
         "lazada.sg",
         "lazada.com.ph"
-      ]
+      ],
+       "domain": [
+         "sg-wum.alibaba.com"
+       ]
     }
   ]
+
 }
